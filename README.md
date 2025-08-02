@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Portfolio
-🔗 [omkarbiloor.netlify.app](https://omkarbiloor.netlify.app/)
+🔗 [Omkar Biloor](https://omkarbiloor.netlify.app/)
 
 ---
 
