@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Omkar Biloor!
 
 🎮 E-Sports Team Coordinator | 💻 Data Enthusiast | 📊 Power BI Developer | 🧬 AI & ML Explorer  
+
 🚀 Engineering student passionate about AI-driven solutions, Data Visualization & impactful tech.
 
 ---
 
 ## 🚀 Current Focus
-- 🔭 Building: **Modi Lipi OCR** & **Diabetes Prediction System**
-- 🌱 Learning: **FastAPI, Deep Learning Models**
+- 🔭 Building: **Modi Lipi OCR**
+- 🌱 Learning: **FastAPI,Machine Learning and Deep Learning Models**
 - 💡 Exploring: **AI Chatbots for Indian Rural Languages**
 
 ---
