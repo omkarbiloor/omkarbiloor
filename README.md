@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omkar Biloor!
 
-🎮 E-Sports Team Coordinator | 💻 Data Enthusiast | 📊 Power BI Developer | 🧬 AI & ML Explorer  
+🎮 E-Sports Team Coordinator | 💻 Data Enthusiast | 📊 Power BI Developer | 🧬 AI & ML Engineer 
 
 🚀 Engineering student passionate about AI-driven solutions, Data Visualization & impactful tech.
 
