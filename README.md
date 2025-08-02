@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Portfolio
-🔗 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omkarbiloor.netlify.app/)
+[Omkar Biloor](https://omkarbiloor.netlify.app/)
 
 ---
 
