@@ -1,22 +1,23 @@
 # 👋 Hi, I'm Omkar Biloor!
 
-## 🚀 About Me
-🧬 AI & ML Explorer | 💻 Data Enthusiast | 📊 Power BI Developer |🎮 E-Sports Team Coordinator
+🎮 E-Sports Team Coordinator | 💻 Data Enthusiast | 📊 Power BI Developer | 🧬 AI & ML Explorer  
+🚀 Engineering student passionate about AI-driven solutions, Data Visualization & impactful tech.
 
-I'm an Engineering Student passionate about AI-driven solutions, Data Visualization, and building impactful tech for real-world problems. Currently working on projects involving OCR, Diabetes Prediction, and Financial Dashboards.
+---
 
-- 🔭 Currently building: **Modi Lipi OCR**
-- 🌱 Learning: **FastAPI, Advanced Deep Learning Models**
+## 🚀 Current Focus
+- 🔭 Building: **Modi Lipi OCR** & **Diabetes Prediction System**
+- 🌱 Learning: **FastAPI, Deep Learning Models**
 - 💡 Exploring: **AI Chatbots for Indian Rural Languages**
 
 ---
 
-## 🖥️ My Portfolio
-🌐 [Visit My Portfolio](https://omkarbiloor.netlify.app/)
+## 🌐 Portfolio
+🔗 [omkarbiloor.netlify.app](https://omkarbiloor.netlify.app/)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
@@ -29,17 +30,17 @@ I'm an Engineering Student passionate about AI-driven solutions, Data Visualizat
 
 ## 🧑‍💻 Key Projects
 ### 📝 Modi Lipi OCR
-- Dataset of 3 Lakh+ Historical Script Images.
-- EDA, Image Preprocessing Pipelines, Custom Deep Learning Models for OCR.
+- 3 Lakh+ Historical Script Images.
+- EDA, Preprocessing Pipelines, Custom DL Models for OCR.
 
 ### 🩺 Diabetes Prediction System
-- Implemented Machine Learning models for early detection of Diabetes.
-- Interactive visualizations using Jupyter Notebook & Google Colab.
-- Backend APIs built with Python for prediction workflows.
+- ML Models for early detection.
+- Visual Dashboards (Jupyter, Colab).
+- Backend APIs in Python.
 
 ### 📊 Financial Insights Power BI Dashboards
-- Built 4 interconnected dashboards for a Next-Gen Financial Insights Solution.
-- Enhanced Financial Visibility and Operational Decision-Making with effective Power BI reporting.
+- 4 interconnected dashboards for operational decision-making.
+- Enhanced financial visibility with effective BI reporting.
 
 ---
 
